@@ -1,3 +1,2 @@
-mensaje="hello world"
-print(mensaje)
-print("otro mensaje")
+a = [90, "python", 3.87]
+print(a[-1])
